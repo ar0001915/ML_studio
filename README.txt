@@ -1,11 +1,10 @@
-ML STUDIO - SETUP GUIDE
-=======================
+ML STUDIO -Intelligent data analysis & automated machine learning platform SETUP GUIDE
 
 1. Install Python 3.11 or 3.12
    Download: https://www.python.org/downloads/
    During Windows installation, tick "Add Python to PATH".
 
-2. Extract this ZIP file to a folder, for example Desktop\ml_studio_project.
+2. Extract this ZIP file to a folder, for example Desktop\ml_studio.
 
 3. Open the folder in VS Code.
    VS Code: File > Open Folder > select ml_studio_project.
@@ -40,9 +39,7 @@ HOW TO USE
   choose algorithms, and press Train selected models.
 - Predict: after training, enter values and generate a prediction.
 
-NOTES
------
-- This is a student project prototype. Auto-detection is a heuristic; confirm the task type.
-- For classification, target values should represent classes (e.g. Yes/No, category names).
-- For regression, target should be numeric (e.g. price, score, sales).
-- Use CSV files with headers. Very large files may require more memory/time.
+This ML Studio is a web-based machine learning application developed using Python and Streamlit. It simplifies the machine learning workflow by providing an interactive platform for data analysis, visualization, model training, evaluation, and prediction.
+ - The main goal of ML Studio is to make machine learning and data analysis easier, more accessible, and efficient through a user-friendly interface.   
+
+
